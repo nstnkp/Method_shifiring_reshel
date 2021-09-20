@@ -1,0 +1,13 @@
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.exe
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.deps.json
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.runtimeconfig.json
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.runtimeconfig.dev.json
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.dll
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.pdb
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.csprojAssemblyReference.cache
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.AssemblyInfoInputs.cache
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.AssemblyInfo.cs
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.csproj.CoreCompileInputs.cache
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.dll
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.pdb
+C:\Users\artik\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.genruntimeconfig.cache
